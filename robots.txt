@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://your-vercel-url.vercel.app/sitemap.xml
+
+Sitemap: https://gtc-ado-soba-attendance.vercel.app/sitemap.xml
