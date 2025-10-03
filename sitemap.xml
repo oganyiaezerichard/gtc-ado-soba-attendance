@@ -2,47 +2,48 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
         <loc>https://gtc-ado-soba-attendance.vercel.app/</loc>
-        <lastmod>2023-11-15</lastmod>
+        <lastmod>2025-10-2</lastmod>
         <changefreq="weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
         <loc>https://gtc-ado-soba-attendance.vercel.app/student-dashboard.html</loc>
-        <lastmod>2023-11-15</lastmod>
+        <lastmod>2025-10-2</lastmod>
         <changefreq="weekly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://gtc-ado-soba-attendance.vercel.app/login.html</loc>
-        <lastmod>2023-11-15</lastmod>
+        <lastmod>2025-10-2</lastmod>
         <changefreq="weekly</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
         <loc>https://gtc-ado-soba-attendance.vercel.app/register.html</loc>
-        <lastmod>2023-11-15</lastmod>
+        <lastmod>2025-10-2</lastmod>
         <changefreq="weekly</changefreq>
         <priority>0.9</priority>
     </url>
      <url>
         <loc>https://gtc-ado-soba-attendance.vercel.app/admin-register.html</loc>
-        <lastmod>2023-11-15</lastmod>
+        <lastmod>2025-10-2</lastmod>
         <changefreq="weekly</changefreq>
         <priority>0.9</priority>
     </url>
      <url>
         <loc>https://gtc-ado-soba-attendance.vercel.app/admin-dashboard.html</loc>
-        <lastmod>2023-11-15</lastmod>
+        <lastmod>2025-10-2</lastmod>
         <changefreq="weekly</changefreq>
         <priority>0.9</priority>
     </url>
  <url>
         <loc>https://gtc-ado-soba-attendance.vercel.app/admin-login.html</loc>
-        <lastmod>2023-11-15</lastmod>
+        <lastmod>2025-10-2</lastmod>
         <changefreq="weekly</changefreq>
         <priority>0.9</priority>
     </url>
 </urlset>
+
 
 
 
